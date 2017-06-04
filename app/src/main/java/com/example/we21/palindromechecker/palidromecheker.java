@@ -1,5 +1,7 @@
 package com.example.we21.palindromechecker;
 
+import android.text.Editable;
+
 /**
  * Created by Asus on 6/4/2017.
  */
