@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+System.out.println("Test");
         setContentView(R.layout.activity_main);
         txt1=(EditText) findViewById(R.id.txt1);
         txt2=(EditText) findViewById(R.id.txt2);
